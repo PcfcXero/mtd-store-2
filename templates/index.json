@@ -48,22 +48,22 @@
         "show_text_below": false
       }
     },
-    "1657594159ae978f1d": {
+    "165759432153e5209b": {
       "type": "collection-list",
       "blocks": {
-        "1657594159ea98b8fd-0": {
+        "165759432025385367-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "coffee"
           }
         },
-        "1657594159ea98b8fd-1": {
+        "165759432025385367-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "milk"
           }
         },
-        "1657594159ea98b8fd-2": {
+        "165759432025385367-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "chocolate"
@@ -71,9 +71,9 @@
         }
       },
       "block_order": [
-        "1657594159ea98b8fd-0",
-        "1657594159ea98b8fd-1",
-        "1657594159ea98b8fd-2"
+        "165759432025385367-0",
+        "165759432025385367-1",
+        "165759432025385367-2"
       ],
       "settings": {
         "title": "Collections",
@@ -91,6 +91,6 @@
   },
   "order": [
     "image_banner",
-    "1657594159ae978f1d"
+    "165759432153e5209b"
   ]
 }
